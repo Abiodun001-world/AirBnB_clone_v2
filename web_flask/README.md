@@ -1,4 +1,24 @@
 ##  0x04. AirBnB clone - Web framework
+# Concepts
+# For this project, we expect you to look at this concept:
+
+- <a href="https://intranet.alxswe.com/concepts/74">AirBnB clone</a>
+
+# Resources
+
+# Read or watch:
+- <a href="https://intelegain-technologies.medium.com/what-are-web-frameworks-and-why-you-need-them-c4e8806bd0fb">What is a Web Framework?</a>
+- <a href="https://flask.palletsprojects.com/en/1.0.x/quickstart/#a-minimal-application">A Minimal Application</a>
+- <a href="https://flask.palletsprojects.com/en/1.0.x/quickstart/#routing">Routing (except “HTTP Methods”)</a>
+- <a href="https://flask.palletsprojects.com/en/1.0.x/quickstart/#rendering-templates">Rendering Templates</a>
+- <a href="https://jinja.palletsprojects.com/en/2.9.x/templates/#synopsis">Synopsis</a>
+- <a href="https://jinja.palletsprojects.com/en/2.9.x/templates/#variables">Variables</a>
+- <a href="https://jinja.palletsprojects.com/en/2.9.x/templates/#comments">Comments</a>
+- <a href="https://jinja.palletsprojects.com/en/2.9.x/templates/#whitespace-control">Whitespace Control</a>
+- <a href="https://jinja.palletsprojects.com/en/2.9.x/templates/#list-of-control-structures">List of Control Structures (read up to “Call”)</a>
+- <a href="https://palletsprojects.com/p/flask/">Flask</a>
+- <a href="https://jinja.palletsprojects.com/en/2.9.x/templates/">Jinja</a>
+
 
 ## Learning Objectives
 - What is a Web Framework
